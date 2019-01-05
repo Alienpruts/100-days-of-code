@@ -6,5 +6,5 @@
 
 **Thoughts:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:**
 
