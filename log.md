@@ -16,3 +16,11 @@
 
 **Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
 
+### Day 3: January, 08 2019 
+
+**Today's Progress**: Did some excercises with Dictionaries and lookup up some more online resources
+
+**Thoughts:** Time was an issue here because of a meetup meeting, but succeeded nonetheless. However, I've felt a bit 'laggin behind' because of it, I should be way ahead in the learning path.
+
+**Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
+
