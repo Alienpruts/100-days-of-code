@@ -24,3 +24,12 @@
 
 **Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
 
+### Day 3: January, 09 2019 
+
+**Today's Progress**: Went on to learn about functions, variable scopes and control structures
+
+**Thoughts:** Still feels very basic (and probably is), but I have to tough it out before moving on to the more advanced stuff
+
+**Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
+
+
