@@ -32,4 +32,11 @@
 
 **Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
 
+### Day 4: January, 09 2019
+
+**Today's Progress**: Ditched my old learning resource and started using a new one. Revisited data types, modules and variables
+
+**Thoughts:** I got fed up with my current learning resource (a book, which will remain unnamed :) ). Not that it was bad, but too basic and to top it off, almost everything Python 2. I changed it in favor of a more modern learning resource and am revisiting everything. Might seem like a waste of time, but it was going too slowly for me anyways.
+
+**Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
 
