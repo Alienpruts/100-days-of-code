@@ -40,7 +40,7 @@
 
 **Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
 
-### Day 5: January, 12 2019
+### Day 6: January, 12 2019
 
 **Today's Progress**: Made some good progress, finished Strings and Operaters and expressions
 
