@@ -32,7 +32,7 @@
 
 **Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
 
-### Day 4: January, 09 2019
+### Day 4: January, 10 2019
 
 **Today's Progress**: Ditched my old learning resource and started using a new one. Revisited data types, modules and variables
 
@@ -40,3 +40,10 @@
 
 **Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
 
+### Day 5: January, 12 2019
+
+**Today's Progress**: Made some good progress, finished Strings and Operaters and expressions
+
+**Thoughts:** Just in time for the day. Had to skip one day because of an event at work. Made up for it today by spending about 3 hours on the basics of Operators, Expressions and Strings
+
+**Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
