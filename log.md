@@ -55,3 +55,11 @@
 **Thoughts:** Again, had to skip a day because of sports event of my son. Had my laptop with me, but in a room with 60 children, I could not concentrate :). All went well today, except I had to reinvestigate the concept of slicing : it was there somewhere in the back of my head.
 
 **Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
+
+### Day 7: January, 15 2019
+
+**Today's Progress**: Went on to learn Dictionaries and Sets.
+
+**Thoughts:** Wow, Sets can be hard to wrap your head around. It this point in time I do not see the added value of them, but we'll soon discover
+
+**Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
