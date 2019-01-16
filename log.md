@@ -63,3 +63,11 @@
 **Thoughts:** Wow, Sets can be hard to wrap your head around. It this point in time I do not see the added value of them, but we'll soon discover
 
 **Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
+
+### Day 8: January, 16 2019
+
+**Today's Progress**: Tackled the Lexical structure of a Python Program and the IF conditional statements
+
+**Thoughts:** I'm making good progress, albeit on a slower tempo than I would've liked.
+
+**Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
