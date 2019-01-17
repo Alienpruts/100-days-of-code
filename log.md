@@ -71,3 +71,11 @@
 **Thoughts:** I'm making good progress, albeit on a slower tempo than I would've liked.
 
 **Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
+
+### Day 9: January, 17 2019
+
+**Today's Progress**: Went on with While loops, did some coding examples and played around with the Itertools module
+
+**Thoughts:** Today I went a bit further than usual (time-wise) and for the first time played around a bit more than traditionally following books. Had my first look at a imported moduled (Itertools), which looks promising
+
+**Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
