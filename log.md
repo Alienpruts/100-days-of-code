@@ -79,3 +79,10 @@
 **Thoughts:** Today I went a bit further than usual (time-wise) and for the first time played around a bit more than traditionally following books. Had my first look at a imported moduled (Itertools), which looks promising
 
 **Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
+
+### Day 10: January, 18 2019
+
+**Today's Progress**: Functions, arguments, return values and importing were on the menu today
+
+**Thoughts:** Did this one on the same day as D11, because I just was too tired (so two days work in one day). Went along smoothly, and now we are getting to the very interesting stuff, beyond the basics
+**Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
