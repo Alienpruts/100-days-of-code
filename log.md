@@ -85,4 +85,13 @@
 **Today's Progress**: Functions, arguments, return values and importing were on the menu today
 
 **Thoughts:** Did this one on the same day as D11, because I just was too tired (so two days work in one day). Went along smoothly, and now we are getting to the very interesting stuff, beyond the basics
+
+**Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
+
+### Day 11: January, 19 2019
+
+**Today's Progress**: map, zip and filter functions, Comprehensions and Generators
+
+**Thoughts:** Getting to the fun stuff. Chapter was about performance in Python, but learned quite a few tricks along the way. Learned about map, filter and zip functions for collections and Comprehensions. Finally, called it a day with Generators, where a lot of fun stuff can be done with.
+
 **Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
