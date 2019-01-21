@@ -95,3 +95,11 @@
 **Thoughts:** Getting to the fun stuff. Chapter was about performance in Python, but learned quite a few tricks along the way. Learned about map, filter and zip functions for collections and Comprehensions. Finally, called it a day with Generators, where a lot of fun stuff can be done with.
 
 **Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
+
+### Day 12: January, 21 2019
+
+**Today's Progress**: Learnt about decorators and Decorator factories
+
+**Thoughts:** I had to ask, didn't I? :). First stop before moving on to OOP are the Decorators and Decorator Factories. They can be challenging to comprehend, mind you.
+
+**Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
