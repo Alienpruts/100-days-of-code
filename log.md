@@ -103,3 +103,27 @@
 **Thoughts:** I had to ask, didn't I? :). First stop before moving on to OOP are the Decorators and Decorator Factories. They can be challenging to comprehend, mind you.
 
 **Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
+
+### Day 13: January, 22 2019
+
+**Today's Progress**: Started learning about OOP - Inheritance - Composition
+
+**Thoughts:** Getting started with OOP techniques in Python. Went well because of previous knowledge, but getting to grips with Multiple Inheritance might prove a tad difficult
+
+**Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
+
+### Day 14: January, 29 2019
+
+**Today's Progress**: Multiple Inheritance, the Method Resolution Order, Static and Class methods and Name Mangling a.k.a Private methods / properties
+
+**Thoughts:** Took a long break from 100 Days Of Code, but it was for a good cause - Conference of three days, coupled with a few days bad sleep prevented a push forward. Back in the saddle though, albeit a bit wonky - my head was filled up with new ideas from the conference. Now I am also starting to see that Python differs substantially from trusty old PHP
+
+**Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
+
+### Day 15 + 16: January, 31 2019
+
+**Today's Progress**: Operator Overloading, the Property Decorator, Polymorfism, Virtual Environments, Pip and installing nose testing framework and Mocks
+
+**Thoughts:** Had to do two days in one evening (and a half). Went on with OOP seeing Operator Overloading nd The Property Decorator before movind on to testing. Saw (and fought with) a lot of Virtual environments, pip package manager and the nose testing framework, and wrote some tests to show the dangers of mock objects.
+
+**Link to work:** [https://github.com/Alienpruts/100-days-of-code/tree/master/work]
